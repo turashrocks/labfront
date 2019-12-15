@@ -1,0 +1,8 @@
+src/actions/ProfileActions.js
+contains the get api for all profiles
+
+src/components/Profile/Profile.js
+contains the frontend
+
+next approach:
+cross check the tutorial
